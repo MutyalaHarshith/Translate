@@ -1,5 +1,7 @@
-# Translate
-Google translator telegram bot https://t.me/MutyalaHarshith
+# Translater
+This is normal Google translator telegram bot Multi Languages From Translator [Harshith](https://t.me/MutyalaHarshith)
+
+[GOOGLE can Translate Languages](https://telegra.ph/Google-Translating-Languages-05-25)
 
 ## 𝑴𝒖𝒕𝒚𝒂𝒍𝒂 𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒉
 
