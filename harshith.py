@@ -149,7 +149,7 @@ async def translate(bot, update):
                 await message.delete()
     except Exception as error:
         print(error)
-        await message.edit_text("Something wrong. Contact @doreamonfans2.")
+        await message.edit_text("Something wrong. Contact @MutyalaHarshith.")
         return
 
 MutyalaHarshith.run()
