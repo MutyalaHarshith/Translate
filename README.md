@@ -1,5 +1,18 @@
-# Translater
+## Translater
 This is normal Google translator telegram bot Multi Languages From Translator [Harshith](https://t.me/MutyalaHarshith)
+
+---
+
+```MH
+Made with Python3
+(C) @MutyalaHarshith 
+Copyright permission under MIT License
+License -> https://github.com/MutyalaHarshith/Translate/blob/master/LICENSE
+```
+
+---
+
+
 
 [GOOGLE can Translate Languages](https://telegra.ph/Google-Translating-Languages-05-25)
 
@@ -15,29 +28,25 @@ This is normal Google translator telegram bot Multi Languages From Translator [H
 <p align="left">
 </p>
 
-<a href="https://t.me/Harshith_Mutyala">
-    <img alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
-  </a>
+## Variables
+`•BoT_NaME` Bot Name as Your Wish
 
-<a href="https://instagram.com/mutyala.harshith">
-    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
-  </a>
+`•API_HASH` Your API Hash from [my.telegram.org](my.telegram.org)
 
-<a href="https://youtube.com/channel/UCE72_6rmOJYa6JTXNaZ5LSw">
-    <img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
-  </a>
+`•API_ID` Your API ID from [my.telegram.org](my.telegram.org)
 
-<a href="https://github.com/MutyalaHarshith">
-    <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-  </a>
-
-<a href="https://twitter.com/MutyalaHarshith">
-    <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
-  </a>
-
-<a href="https://www.facebook.com/Mutyala.Harshith">
-    <img alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
-  </a>
+`•BOT_TOKEN` Your bot token from [@BotFather](https://t.me/botfather)
 
 ## Deploy To Heroku 
 [![20220411_065237](https://user-images.githubusercontent.com/91818980/162686070-c0064258-1f97-4ddd-b3f4-87f7524cdaf0.png)](https://heroku.com/deploy)
+
+## Deploy To VpS
+
+
+```MH
+git clone https://github.com/MutyalaHarshith/Translate
+cd Translate
+pip3 install -r requirements.txt
+# <Create Variables appropriately>
+python3 harshith.py
+```
